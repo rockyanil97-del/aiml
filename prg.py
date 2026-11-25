@@ -1,0 +1,5 @@
+number = [10,20,30,40]
+number.append(50)
+print(number)
+number.remove(20)
+print(number)
